@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some brief considerations and proposals, relating to the dependencies of the English nation with Spaine, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93485</idno>
+            <idno type="STC">Wing S4476</idno>
+            <idno type="STC">ESTC R184363</idno>
+            <idno type="EEBO-CITATION">45789407</idno>
+            <idno type="OCLC">ocm 45789407</idno>
+            <idno type="VID">172718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172718)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some brief considerations and proposals, relating to the dependencies of the English nation with Spaine, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1658/9 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Birmingham Central Reference Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Spain --  1649-1660.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  1621-1665.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172718:1"/>
+            <pb facs="tcp:172718:1" rendition="simple:additions"/>
+            <p>Some Brief CONSIDERATIONS AND PROPOSALS, Relating to the DEPENDENCIES OF THE <hi>ENGLISH NATION</hi> WITH Spaine, &amp;c.</p>
+            <p>
+               <hi>London,</hi> Printed Anno Dom. 1658/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172718:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:172718:2"/>
+            <head>Some brief Conſiderations and Propoſals, re<g ref="char:EOLhyphen"/>lating to the Dependencies of the <hi>Engliſh Nation with</hi> Spaine, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat the ſufferings of this Nation were, in the breach with <hi>Spaine,</hi> in the yeare 1655. moſt men are ſenſible of, more particularly the Mer<g ref="char:EOLhyphen"/>chants that traded thither, which had great e<g ref="char:EOLhyphen"/>ſtates ſeized on, and ever ſince have the Pirates of <hi>Dunkirk, Oſtend, Sanſebaſtians</hi> paſſage, <hi>Calicia,</hi> and others in the Straights, had their ends in taking (even at their pleaſure) our ſhips trading for any part of <hi>Europe,</hi> and elſewhere, to the leſſening the ſtock of the Na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, weakning its ſtrength, and ruining of many a family, that lived in great plenty and reputation, ſupporting many others, it being clearly to be demonſtrated, that ſince the firſt falling out with that Nation, this hath loſt, when leaſt, 700. ſaile of ſhips ſmall and great, moſt of which might have been preſerved, if the managers of the Navie appertaining to this State, had been pleaſed to have em<g ref="char:EOLhyphen"/>ployed ſo many of its men of Warre for checking of thoſe Pirates, as would have been well maintained by the purchaſe they might have taken from the enemy, and the revenue that muſt have come into this Common wealth for Cuſtome and Exciſe of our loſt goods, ('tis true, great Fleets were ſent abroad to as great charge of the Nation, but they lay together in ſuch ſtations, where few or none of the enemies private men of War did frequent, whereas had they been reparted in the Bay of <hi>Biſcay,</hi> Coaſt of <hi>Galicia,</hi> and within the Streights, (as well as before <hi>Cales,</hi>) as was deſired by ſeveral <hi>Me<g ref="char:EOLhyphen"/>morandums</hi>
+               <pb n="2" facs="tcp:172718:3"/>and Applications of Merchants, moſt of our ſhips had been protected, and the enemies men of Warre either deſtroyed or diſheartened from coming abroad, but they ſeeing no effectual courſe was in particular taken to ſuppreſſe them, encouraged by great boo<g ref="char:EOLhyphen"/>ties obtained from us, knowing from their Agents here how things went, have encreaſed in ſtrength and number, and unleſſe ſome trading, or ſuffer the Commerce to be deſtroyed, to the enriching the Adverſaries.</p>
+            <p>Private men, we know, muſt not meddle with myſteries of State, where ſo judicious perſons ſit at the Helme of Government: yet as well-wiſhers to the whole, being made too ſenſible as to the thing in hand; we ſuppoſe it our duty modeſtly to preſent our thoughts concerning the affairs with <hi>Spain,</hi> as verſt with the diſpoſitions of that Nation.</p>
+            <p>Known it is that a vaſt treaſure hath been ſpent in carrying on the Warre with that people, which notwithſtanding hath not wrought the intended effects, for their policie hath been ſuch, (though in many things to their prejudice) as to judge it their great<g ref="char:EOLhyphen"/>eſt ſafety to lie ſtill, and not to ſet forth their Armada to engage with our Fleets, keeping themſelves in part from thoſe great expen<g ref="char:EOLhyphen"/>ces which we have continually been at, affording the Dutch the con<g ref="char:EOLhyphen"/>veniences to ſerve them in times of neceſſity, as in bringing their treaſure from the Canary Iſlands, &amp;c. which with themſelves as our back-friends, uſe all meanes to weare out the purſe of the Na<g ref="char:EOLhyphen"/>tion, and occaſion diſcontents for want of trade, thereby either to ſpoile us by a Warre, or reduce us to ſuch termes of peace as would be as bad, and in the mean time the Spaniards take ſuch opportu<g ref="char:EOLhyphen"/>nities of getting home their <hi>Weſt-India</hi> Fleets, when our ſhips can<g ref="char:EOLhyphen"/>not well remain on their Coaſts, or are wearied with waiting there for want of neceſſaries, as it hath formerly f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll out.</p>
+            <p>And whereas the Merchants and Navigation of <hi>England,</hi> have af<g ref="char:EOLhyphen"/>ter the Warre undergone ſuch great loſſes, many of the Spaniards on the contrary, have enjoyed greater advantages then in time of peace, occaſioned by our continual and irrigular trading thither, em<g ref="char:EOLhyphen"/>ploying the Native Spaniards &amp; others as Factors, which put our com<g ref="char:EOLhyphen"/>modities at what rates they pleaſe, and their own goods, as Wines, VVools, Fruit, &amp;c. even as they liſt, inſomuch that a Pipe of Ca<g ref="char:EOLhyphen"/>nary VVine now, coſts more then double the value of what former<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:172718:3"/>it did, and our Goods that yielded a conſiderable advance there<g ref="char:EOLhyphen"/>in times of peace, by the Accounts thoſe Spaniards and our Corre<g ref="char:EOLhyphen"/>ſpondents now give, the Product will ſcarce anſwer the principal Coſt here in <hi>England;</hi> the like Negotiation is found in <hi>Malaga</hi> and other parts of <hi>Spain,</hi> to which muſt be added, that in this diſadvan<g ref="char:EOLhyphen"/>tageous trade, we employ for the moſt part <hi>Holland</hi>-ſhips and Sea<g ref="char:EOLhyphen"/>men, enemies at heart of this Nation, to the Augmentation of their Shipping, Seamen and VVealth, the conſequence whereof may in the end produce no good to <hi>England,</hi> and whats as bad as the reſt, thoſe Spaniſh Commodities, by our untimely and immoderate preſſing for them, are not to be obtained by our Engliſh Manufactory, as in for<g ref="char:EOLhyphen"/>mer times, but ſtore of Plate is ſent to purchaſe them, ſo that as ſil<g ref="char:EOLhyphen"/>ver was brought in abundance from <hi>Spain</hi> hither, obtained for our <hi>Engliſh</hi> Goods, now its carried thither for the buying of what is not at all in effect beneficial to this Nation.</p>
+            <p>Then is to be noted that this Common-wealth had in moſt part of <hi>Spain</hi> conſiderable Factories, which did great ſubſineſſe for them<g ref="char:EOLhyphen"/>ſelves and friends, yea, the greater part of the Spaniards affairs did run by our hands: but now not an Engliſhman dares appear (ex<g ref="char:EOLhyphen"/>cept ſome that this Nation is little beholding to for the ſervice they do the enemy, and if any are diſcovered, they are immediately laid hold of, and impriſoned as Spies, &amp;c. And any Goods appertain<g ref="char:EOLhyphen"/>ing to <hi>Engliſh,</hi> and but ſlenderly proved to be ſuch, are abſolutely Confiscate; on the contrary, here in <hi>London,</hi> native Spaniards that never came in times of Peace, are as free as our ſelves, and bring in ſtore of VVines and other Goods by the hands of Jewes and ſome others, which take them up in their own names, and the proceed of a great part of their effects, is and hath been remitted to <hi>Flanders,</hi> for ſeveral yeares paſt; ſo that if ſuch Negotiations be not prevent<g ref="char:EOLhyphen"/>ed, what will follow; but whereas we were the managers of the Commerce with <hi>Spain</hi> formerly, Jews and Spaniards with their Confederates will have all in their poſſeſſion, and take many other conveniences out of our hands, which how well in time it will ſtand with this Nations intereſt and ſafety, may eaſily be diſ<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>And yet all theſe particulars premiſed, and though the damages ſuſtained by warre have been ſo conſiderable, we are not well fitted to treat of a Peace, eſpecially if the Spaniard ſee firſt an inclination here to
+<pb n="4" facs="tcp:172718:4" rendition="simple:additions"/>ſtrike up with them, for then Articles cannot be made ſo honourable and profitable for us, as they might before this VVar began, and therefore an orderly Proſecution of the ſame a while longer, may bring matters into ſuch a poſture, as to anſwer our conveniences, and the worlds expectations, as to the Engagement with that Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore are humbly offered as Expedients.</hi>
+            </p>
+            <p>Firſt, that there may be an abſolute Prohibition for the bringing in any Canary, Malaga, or Sherry Sacks, or Fruit, from either place, for the ſpace of about two yeares, in which time the Owners of thoſe Commodities which are chiefly ſpent in <hi>England,</hi> that now are grown very rich, by our ill managing the trade, will be reduced to much hardſhip, if not to a diſcontent with their Governours and the Kings duties, which are now conſiderable, will be brought ve<g ref="char:EOLhyphen"/>ry low; and in this time, while we deſiſt from the trade, will all our Engliſh Manufactory that is in <hi>Spain</hi> already, and going thither, be ſpent at good rates, which will put the better eſtimation upon the ſame for future, and other Nations will with many, and other bet<g ref="char:EOLhyphen"/>ter effects, (then thoſe we have now from <hi>Spaine,</hi>) take them off our hands, to ſupply the Markets when there's want, this being one of the beſt remedies, as the Caſe ſtands, to provide an advantageous trade for time to come, which otherwiſe cannot be driven, but at loſſe to us, and too great benefit of the Spaniards, either in Peace or VVar, and the rather becauſe all Engliſhmen in the Spaniſh trade, are, and have been at liberty to adventure what they liſt, without the Reſtriction of a Company, as the Cuſtome is for other parts of the VVorld, as <hi>Turky, Eaſt-India, &amp;c.</hi>
+            </p>
+            <p>Secondly, the grand expectations of the King of <hi>Spain,</hi> and his Subjects, are the Arrival of his Plate Fleet, now ſuppoſed, after their Conjunction, at the <hi>Havana,</hi> from <hi>Cartagena</hi> and new <hi>Spaine,</hi> to be upon their way for <hi>Europe:</hi> in which comes the treaſure of two or three yeares drawing together; and as it concernes him much to have the ſame, ſo it will this Nation to deprive him of it, and poſ<g ref="char:EOLhyphen"/>ſeſſe it our ſelves; which if it ſhould ſo fall out in this Juncture of time, would diſcompoſe that Kings affairs in moſt part of his Do<g ref="char:EOLhyphen"/>minions, and how much it may further ours, may be judged, this State by Intelligence, which queſtionleſſe it hath, knoweth beſt
+<pb n="5" facs="tcp:172718:4" rendition="simple:additions"/>what ſtrength they conſiſt of<g ref="char:punc">▪</g> and anſwerably what power to or<g ref="char:EOLhyphen"/>der againſt them, and in what ſtations to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd them, in that doubt<g ref="char:EOLhyphen"/>leſſe their bent will be either for <hi>Cales, Gibraltar,</hi> or the Groyne in <hi>Galicia;</hi> as for the <hi>Canaries,</hi> their laſt ſuffering there will make them ſhy of returning to that place; if three or foure ſmall nimble ſailing Frigats lay in different latitudes about the Weſtern Iſlands, one or more probably may get ſight of the Spaniard, and obſerve their mo<g ref="char:EOLhyphen"/>tions, and as there is occaſion give notice to our Fleets, as they ſhall be appointed, and the Nation being able to ſpare ſo many ſhips for this hopeful affaire, the charge extraordinary cannot be very great, to put them forth a little ſooner then they might, upon other emploiments, lying already fitted, and this deſign taking effect might clear the Common-wealths obligations, and furniſh it to carry on the warre to purpoſe, againſt thoſe that otherwiſe will employ the ſame againſt us and our friends.</p>
+            <p>In the Bay of <hi>Biſcay,</hi> among others are the chief Ports of <hi>San<g ref="char:EOLhyphen"/>ſebaſtians</hi> paſſage and <hi>Bilbao:</hi> the Inlets of Commodities which fur<g ref="char:EOLhyphen"/>niſh that Countrey, and the North-parts of <hi>Caſtilia:</hi> eſpecially with Fiſh, whereof thoſe parts ſpend great quantities, and will be ſup<g ref="char:EOLhyphen"/>plied by the <hi>French</hi> and <hi>Dutch,</hi> with whatſoever they have occaſion, except prevented by this State in keeping men of War upon that Coaſt, but eight ot ten Frigats will hinder their trade, and de<g ref="char:EOLhyphen"/>prive the places aforeſaid, from other conveniences of the inhabi<g ref="char:EOLhyphen"/>tants, which will make them clamorous; More particularly, when they cannot ſell their Countrey-goods, as Wooles, Iron, Steel, &amp;c. nor receive Corne and other Proviſions from ſorreign parts, whereof for the moſt part they are in great want, and our Frigats will alſo check the attempts of the many Spaniſh men of Warre, ſailing out of <hi>Paſage</hi> and <hi>Sanſebaſtian,</hi> that have hitherto done the Nation ſo much miſchief, and will ſtill, if not lookt after.</p>
+            <p>In the Provinces of <hi>Galicia</hi> and <hi>Aſturia,</hi> ſeated between <hi>Biſcay</hi> and <hi>Portugal,</hi> the King of <hi>Spain</hi> hath a very great Revenue out of Salt, that is brought into thoſe parts from South-<hi>Spain,</hi> by <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> and others, which they may be totally deprived of, as of ma<g ref="char:EOLhyphen"/>ny other concernments, by keeping about ten men of Warre about thoſe parts, where are convenient harbours to water and ſhelter in upon occaſion: and the taking the ſaid Salt will not be only the Kings loſſe, but the whole Countrey muſt be driven to great
+<pb n="6" facs="tcp:172718:5" rendition="simple:additions"/>extremities, and not be able to follow their Fiſhing trade, which is the greateſt maintenance the common people have, and this Squadron will lie opportunely to ſecure our Merchants ſhips, tra<g ref="char:EOLhyphen"/>ding for <hi>Portugal</hi> and other places, from <hi>Biſcayners, Oſtenders,</hi> and other Pirates, that ſaile out of the ports of <hi>Galicia.</hi>
+            </p>
+            <p>
+               <hi>Malaga, Alicante,</hi> and <hi>Valenſia,</hi> within the Streights of <hi>Gibraltar,</hi> are places abounding with Wine, Oyle, and Fruit, the greater part whereof is brought for <hi>England,</hi> and that trade failing, the people there will generally be driven to ſtraits, the rather if we have Ships of Warre upon their Ports, to examine all ſtrangers, and deprive them from carrying in Proviſions, without which they cannot well ſubſiſt, and Commodities lying on the Inhabitants hands, (as they muſt, if ſtrangers bring them not hither,) will be for the moſt part loſt, and a Squadron kept about thoſe Coaſts, will ſecure moſt of our trade in the <hi>Levant,</hi> againſt all enemies.</p>
+            <p>
+               <hi>Sevilla, Cales,</hi> and Saint <hi>Lucar,</hi> which are the chief places of trade in <hi>Spain,</hi> do ſet forth all ſhips for the <hi>Indies,</hi> and thither for the moſt part return that Kings Fleets, and particular veſſels, with ſilver and other Commodities, out of the ſaid <hi>India;</hi> but about twelve Saile of our ſhips continually kept there, may impede the carrying in of any Proviſions for the ſupply of the Countrey, or the Kings Fleets, which ordinarily are brought from <hi>Holland, France;</hi> and alſo intercept their ſhips going to, and coming from the <hi>Indies,</hi> and other places, hindring the excurſions of private men of War, that ſaile thence to annoy our Merchants ſhips; and upon any occaſion of ſervice to this Nation, may ſoon be drawn the Squa<g ref="char:EOLhyphen"/>drons from the Coaſt of <hi>Galicia, Biſcaya,</hi> and the Streights, to joyne with theſe: which together will make a ſufficient ſtrength, to en<g ref="char:EOLhyphen"/>counter any power <hi>Spain</hi> can ſet forth, or may expect from abroad.</p>
+            <p>Such Courſes as theſe being taken in good earneſt, and none but diligent, affectionate, and able Commanders, employed in our Fleets, will not only preſerve our Commerce, but be a great repute to the Nation, in a manner keeping the Coaſts of all <hi>Spain</hi> conti<g ref="char:EOLhyphen"/>nually alarm'd: depriving that King of the greater part of his in<g ref="char:EOLhyphen"/>comes, and render his people incapable to pay taxes, which are heavy upon them; and conſequently, his Armies and Garriſons will be neglected in Pay and Proviſions, ſome of his remoteſt terri<g ref="char:EOLhyphen"/>tories will revolt or be taken from him, and a general calamitie
+<pb n="7" facs="tcp:172718:5" rendition="simple:additions"/>overwhelm his dominions then, (and ſcarce otherwiſe) will that Nation be made truly ſenſible, what it is to have peace or war with <hi>England,</hi> and being brought low, he will as eagerly ſeek for a peace from us, (and with more reaſon) then he did lately from the <hi>Hollander;</hi> once his ſubjects granting in a manner their own conditions, at leaſt for better then we had, by the laſt Articles of Peace. This being certain, that the King of <hi>Spain,</hi> ſeeing this Nation formidable, and valuing it ſelfe of its ſtrength, will yield to our reaſonable deſires.</p>
+            <p>But if now, or at other time a Peace ſhould be treated of among other things, that may more immediatly concern the State; theſe heads may be inſiſted upon for the bettering of our Nation in ge<g ref="char:EOLhyphen"/>neral, and encouragement of Merchants and Factors that ſhall con<g ref="char:EOLhyphen"/>tinue trading with <hi>Spain.</hi>
+            </p>
+            <p>Firſt, that Reſtoration be made to the ſeveral Merchants of this Nation, of the ſtate and ſhipping which the King of <hi>Spain</hi> and his Miniſters did ſeize on in the yeare 1655. which will amount to a very conſiderable ſumme, and be made out by teſtimony, and this he is abſolutely bound to do, and our Governours engaged to ſee performed, beſide many other Reaſons that may be ſhewen more particularly, by the twenty third Article of the Treaty between the two Nations, made 1630. which in expreſſe words ſaith. <hi>Item,</hi> if it ſhall happen hereafter, which God forbid that any diſpleaſure do ariſe betwixt the ſaid Renowned Kings, the King of great <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> and the King of <hi>Spain,</hi> whereby danger may grow of the inter<g ref="char:EOLhyphen"/>ruption of Entercourſe and Commerce, then the Subjects of either King are thereof ſo to be admoniſhed, as that they may have ſix moneths from the time of the munition, to tranſport their Mer<g ref="char:EOLhyphen"/>chandiſe without any arreſt, diſturbance or hurt in the mean ſeaſon to be given unto them, either in their Perſons or Merchandizes.</p>
+            <p>By this Proviſion made, its clear that the King of <hi>Spain</hi> did un<g ref="char:EOLhyphen"/>juſtly lay hold of, and keep our eſtates, and impriſon our perſons; therefore as it hath been the honourable practice of the Supreme Powers of this Common-wealth, to ſee its ſubjects righted from Forreigners in moſt Treaties of late; we hope the like courſe will be taken when a Peace ſhall be agitated, and not only reparation for the goods imbarged at the beginning of the War, but of ma<g ref="char:EOLhyphen"/>ny other injuries and loſſes done to the Merchants of this Nation before, contrary to the Articles of Peace, while we were in amity with <hi>Spain,</hi> which then were complained of, and will ſtill be made
+<pb n="8" facs="tcp:172718:6"/>out by proofs of the perſons damnified, when they ſhall have an op<g ref="char:EOLhyphen"/>portunity afforded them to do the ſame.</p>
+            <p>Secondly, that all the Subjects of this Common-wealth may en<g ref="char:EOLhyphen"/>joy the free exerciſe of their Religion, without being moleſted by the Inquiſition, or any other Church-officers: and in the moſt ſignal places, where the greateſt Factories reſide, that there may be tolera<g ref="char:EOLhyphen"/>ted Miniſters to preach in our Conſuls, or ſome other perſon of authority his houſe; and no Spaniards to give ſcandal at times of meet<g ref="char:EOLhyphen"/>ing, it being but high Reaſon we ſhould prize our own Religion, as much, if not more, then they do theirs, which have liberty to exerciſe the ſame in any Ambaſſador, or other houſes here, without contradiction. Alſo we ought to have allowed ſelect places for the burying our dead, at ſuch times as we think fit, in that formerly we were neceſſitated to do it by ſtealth in the night, with much ha<g ref="char:EOLhyphen"/>zard of our perſons, and many have been moſt barbarouſly taken out of their graves, and expoſed to be devoured by beaſts, &amp;c.</p>
+            <p>Thirdly, when any perſon of this Nation dies in that Countrey, though inteſtate, that the Court of the <hi>Cruzada,</hi> may not at all meddle with the deceaſed's eſtate, but that the whole may come to his Correſpondents and Friends in <hi>England,</hi> without interrupti<g ref="char:EOLhyphen"/>on, for it hath been the practice of that Court to ſeize on whatſo<g ref="char:EOLhyphen"/>ever remaines of men, that die without making Wills, and have put thoſe to whom the eſtate belongs to great Charges, in proving their Propriety, and afterwards by one pretence or other, keep them from their right, remaining with all.</p>
+            <p>Fourthly, that all queſtion of <hi>Contrabando</hi> be taken off, touching our Engliſh Manufactory, and that full credit be given to ſuch diſ<g ref="char:EOLhyphen"/>patches and Certificates, as our ſhips ſhall carry from the Cuſtom-houſes of <hi>England,</hi> otherwiſe there will not want Informers, that may bring the cleareſt thing in doubt, and once a Suit it commenc't in ſuch caſes, commonly the greater part, if not the whole Principal is ſpent, ere the matter be decided, to the undoing of many a man, and hindrance of the Commerce in general.</p>
+            <p>Fifthly, that the extraordinary Charges of <hi>Vizits,</hi> from the <hi>Con<g ref="char:EOLhyphen"/>trabando</hi> and Inquiſition be taken off, and though a ſhip come full of any Commodity into Port, and cannot diſpoſe thereof, the Owner may have free liberty to ſeek his Market elſewhere, without paying duties for more then he lands, and taking any from the ſhore again, that will not ſpend the cuſtome thereof, to be returned, and the ſhip to depart at pleaſure.</p>
+            <pb n="9" facs="tcp:172718:6"/>
+            <p>Sixthly, that the Engliſh Merchants may ſell in any part of <hi>Spain,</hi> Corne, Fiſh, or any other Commoditie, at the rates they ſhall think good, and the ordinary Juſtice there, not to put a ſet price, as in ſome places they formerly have done to our damage, and diſturbance of traffick.</p>
+            <p>Seventhly, that whatſoever goods we once diſpatch, and pay the duties thereof, ſhall never be queſtioned by any of the Kings Mi<g ref="char:EOLhyphen"/>niſters, either of ſuch as we import there from <hi>England,</hi> or lade from <hi>Spain</hi> to other places, neither that we be bound to bring Cer<g ref="char:EOLhyphen"/>tificates of the landing our commodities in Ports, at amity with the Crown of <hi>Spain,</hi> as hath been the practice, to the loſſe of many mens eſtates, upon falſe Informations, loſſe of Certificates, or the Judges not admitting them for good, though authentick, when they came, taking advantages of our ſecurities given in that be<g ref="char:EOLhyphen"/>half, and moleſting both them and us.</p>
+            <p>Eighthly, that no Merchant be liable to produce his Books of Ac<g ref="char:EOLhyphen"/>counts to any of the Kings Miniſters, as hitherto they compelled them to do, or for avoiding thereof drew from us great bribes.</p>
+            <p>Ninthly, that nothing of Impoſition be extracted from any of this Nation for Cuſtome, of what they carry to, or bring from <hi>Spaine,</hi> more then what was paid, when the laſt Articles were made, nor that we be enjoyned to pay taxes, or lend money to the King or his Officers, upon what occaſion ſoever, nor be put out of ſuch houſes wherein we live, for the accommodating any of the Kings Miniſters, as in times paſt many were compelled to do.</p>
+            <p>Tenthly, that our Trade may be general in all the King of <hi>Spain</hi> his Dominions, or if a Reſtriction ſhould be in the parts of <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> it will be requiſite that Proviſion ſhould be made for any veſſels of ours, that by tempeſtuous weather, or other extraordinary Ac<g ref="char:EOLhyphen"/>cidents, may be forc't from our own Plantations thither, ſo as they may be friendly uſed while there, and have leave to depart when they liſt on their employments.</p>
+            <p>Eleventhly, that Conſuls and Vice-Conſuls to aſſert the Nations Priviledges, and ſee the performance of Articles, and keeping our Factories in better order, (as to the more beneficial managing the Trade) be ſeated in the moſt important places of <hi>Spain,</hi> ſufficient<g ref="char:EOLhyphen"/>ly impowered to that purpoſe.</p>
+            <p>Many other Particulars may be by the Merchants afforded to the State as neceſſary, when a Treaty ſhall be on foot, as they ſhall be call'd upon to do it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
